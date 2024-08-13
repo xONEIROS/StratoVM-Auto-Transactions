@@ -239,7 +239,7 @@ def main_menu():
         print(f"{Fore.YELLOW}Main Menu:{Style.RESET_ALL}")
         print("1. Automatic Transactions")
         print("2. Mint Daily NFT")
-        print("3. Toggle Auto-Mint NFT")
+        print("3. Daily Auto-Mint NFT")
         print("4. Exit")
         
         choice = input(f"{Fore.GREEN}Choose an option (1-4): {Style.RESET_ALL}")
