@@ -18,10 +18,12 @@ pip install -r requirements.txt
 
 3. اسکریپت رو ران کنید :
 ```
-python stratovm_wallet_creator.py
+chmod +x stratovm.py && ./stratovm.py
 ```
 
 4. ازتون کلید خصوصی، تعداد والت‌هایی که می‌خوای بسازی و فاصله بین تراکنش هارو میخواد که میتونید برای دیفالت بزنید اینتر یا دستی وارد کنی
+![image](https://github.com/user-attachments/assets/b1d44b97-5d04-4c33-b66c-8e8697d4ec9f)
+
 
 
 
